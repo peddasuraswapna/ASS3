@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "type": "funnel",
+    "data": [
+      {
+        "event": "View Item Details",
+        "filters": [
+          {
+            "type": "event",
+            "event": "View Item Details",
+            "operator": "EQ",
+            "value": "Nike"
+          }
+        ]
+      },
+      {
+        "event": "Favorite item",
+        "filters": [
+          {
+            "type": "event",
+            "event": "Favorite item",
+            "operator": "EQ",
+            "value": "Nike"
+          }
+        ]
+      }
+    ],
+    "conversionWindow": 3,
+    "userSegment": "New Users",
+    "timeRange": "June 2022"
+  }
+}

@@ -1,0 +1,13 @@
+Funnel Chart: Nike Brand Items
+
+Step 1: View Item Details
+Total Users: 10,000
+Nike Brand Items: 3,500 (35%)
+
+Step 2: Favorite Item
+Total Users: 2,143 (61% drop-off)
+Nike Brand Items: 2,143 (100%)
+
+Conversion Rate
+21.4% of users who viewed Nike brand item details favorited an item within 3 days.
+
